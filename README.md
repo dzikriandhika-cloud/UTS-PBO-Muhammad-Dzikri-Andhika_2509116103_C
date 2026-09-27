@@ -50,25 +50,34 @@ Program menerapkan beberapa konsep yang dipelajari dalam Pemrograman Berorientas
 
 ### 1. Menu Utama
 Program menampilkan menu utama yang terdiri dari Tambah Pesanan, Lihat Pesanan, Ubah Status Pesanan, dan Keluar.
+<img width="960" height="504" alt="Screenshot 2026-09-27 100531" src="https://github.com/user-attachments/assets/974e0cf1-25fd-4d75-a5d5-6ae1d3f9be26" />
+
 
 
 
 ### 2. Tambah Pesanan
 Pengguna memasukkan data pelanggan, data sepatu, dan memilih jenis layanan. Setelah data berhasil dimasukkan, sistem menampilkan detail pesanan.
+<img width="179" height="228" alt="Screenshot 2026-09-27 100829" src="https://github.com/user-attachments/assets/e52a5e69-1734-4a38-98dd-ab54cc55963f" />
+
 
 
 
 ### 3. Lihat Pesanan
 Menu Lihat Pesanan digunakan untuk menampilkan data pesanan yang telah dibuat. Status awal pesanan adalah "Menunggu".
+<img width="242" height="200" alt="Screenshot 2026-09-27 100845" src="https://github.com/user-attachments/assets/ee1c17ef-3f8e-42f6-8ee2-d3361317703c" />
+
 
 
 ### 4. Ubah Status Pesanan
 Pengguna dapat mengubah status pesanan menjadi Sedang Dicuci, Selesai, atau Sudah Diambil. Pada contoh ini, status pesanan diubah menjadi "Selesai".
+<img width="226" height="148" alt="Screenshot 2026-09-27 100954" src="https://github.com/user-attachments/assets/326e1983-a76a-48ff-a25a-0ae8128282a1" />
 
 
 
 ### 5. Hasil Perubahan Status
 Setelah status diubah, menu Lihat Pesanan menampilkan status terbaru yaitu "Selesai".
+<img width="230" height="116" alt="Screenshot 2026-09-27 101500" src="https://github.com/user-attachments/assets/770b0214-ecc0-408c-a76a-05bb024c8813" />
+
 
 ## Cara Menjalankan Program
 
